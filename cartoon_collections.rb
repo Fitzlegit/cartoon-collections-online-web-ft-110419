@@ -21,7 +21,7 @@ def find_the_cheese(ingedients)# code an argument here
   ingedients.find do |cheese| 
     ingredients.include?(cheese)
   end
+  cheese
 end
 
-find_the_cheese(ingedients)
 
