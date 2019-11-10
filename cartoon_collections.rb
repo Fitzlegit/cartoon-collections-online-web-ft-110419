@@ -2,7 +2,7 @@ require 'pry'
 #binding.pry
 def roll_call_dwarves(dwarf)# code an argument here
   # Your code here
-  dwarf.each_with_index{|name, i| "#{name}. #{i + 1}"}
+  dwarf.each_with_index{|name, i| puts "#{name}. #{i + 1}"}
 end
 
 def summon_captain_planet# code an argument here
