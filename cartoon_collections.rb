@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(short_words)# code an argument here
   # Your code here
-  short_words.
+  short_words.find? 
 end
 
 def find_the_cheese# code an argument here
