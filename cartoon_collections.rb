@@ -1,5 +1,5 @@
 require 'pry'
-binding.pry
+#binding.pry
 def roll_call_dwarves(dwarf)# code an argument here
   # Your code here
   dwarf.each_with_index{|num, name| "#{num}. #{name}"}
