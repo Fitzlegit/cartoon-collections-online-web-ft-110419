@@ -22,3 +22,6 @@ def find_the_cheese(ingedients)# code an argument here
     ingredients.include?(cheese)
   end
 end
+
+find_the_cheese(ingedients)
+
